@@ -1,40 +1,107 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
-</p>
-<h2 align="center">Hello there! My name is Yash Sahijwani. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<!-- لك مطلق الحرية في تغيير هذا الـ GIF لرابط أي صورة أو GIF آخر تريده -->
+<img width="800" src="https://www.google.com/search?q=https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<h2 align="center">Hello there! / !أهلاً وسهلاً 👋</h2>
+<h3 align="center">My name is Ahmed Mohamed Saleh (احمد محمد صالح)</h3>
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
-
-<p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+I'm a passionate <strong>Mechatronics Engineering</strong> student at the <strong>Higher Technological Institute (HTI), 10th Of Ramadan City</strong> 👨‍🎓.
+
+
+
+
+
+I am deeply interested in the intersection of mechanics, electronics, and software. My focus is on <strong>Embedded Systems</strong>, <strong>Robotics</strong> 🤖, and <strong>Mechanical Design</strong>.
+
+
+
+
+
+I'm currently honing my skills in Embedded C/C++ programming, exploring PCB design ⚡, and learning Python. I'm also fascinated by industrial automation, including <strong>PLC programming</strong> and <strong>CNC machines</strong> 🏭.
 </p>
+
+<!-- قسم التواصل الاجتماعي -->
+
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<strong>Connect with me:</strong>
+
+
+
+
+
+<a href="https://wa.me/qr/QLEQSFDG33LKM1">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" height="30">
+</a>
+<a href="http://t.me/Bo77Meed">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Telegram-26A5E4%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" height="30">
+</a>
 </p>
+
+<!-- إحصائيات GitHub -->
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/AHMED-SALEH-1426">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/AHMED-SALEH-1426%3Fstyle%3Dsocial">
+</a>
+<a href="https://www.google.com/search?q=https://github.com/AHMED-SALEH-1426">
+<img src="https://www.google.com/search?q=https://badges.pufler.dev/visits/AHMED-SALEH-1426/AHMED-SALEH-1426%3Fstyle%3Dflat-square%26color%3Dblack%26logo%3Dgithub">
+</a>
+</p>
+
 <hr>
+
+<!-- قسم المهارات والتقنيات -->
+
+<h3 align="center">My Tech Stack & Skills</h3>
+
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<strong>Programming Languages:</strong>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+<p align="center">
+<strong>Embedded Systems & Electronics:</strong>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite" alt="Arduino"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ARM-0091BD%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" alt="ARM"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AVR-CC0000%3Fstyle%3Dfor-the-badge%26logo%3Dmicrochip-technology%26logoColor%3Dwhite" alt="AVR"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PCB_Design-A5915F%3Fstyle%3Dfor-the-badge%26logo%3Daltium-designer%26logoColor%3Dwhite" alt="PCB Design"/>
 </p>
 
+<p align="center">
+<strong>Mechanical Design & Automation:</strong>
 
 
 
 
 
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SolidWorks-DA1F28%3Fstyle%3Dfor-the-badge%26logo%3Dsolidworks%26logoColor%3Dwhite" alt="SolidWorks"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Robotics-D42D1F%3Fstyle%3Dfor-the-badge%26logo%3Dros%26logoColor%3Dwhite" alt="Robotics"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PLC-3C8DBC%3Fstyle%3Dfor-the-badge%26logo%3Dsiemens%26logoColor%3Dwhite" alt="PLC Programming"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CNC-1C1C1C%3Fstyle%3Dfor-the-badge%26logo%3Dlinux-cnc%26logoColor%3Dwhite" alt="CNC"/>
+</p>
+
+<hr>
+
+<!-- إحصائيات GitHub المتقدمة -->
+
+<h3 align="center">My GitHub Stats</h3>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAHMED-SALEH-1426%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Ahmed's GitHub Stats"/>
+</p>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAHMED-SALEH-1426%26layout%3Dcompact%26theme%3Dradical" alt="Ahmed's Top Languages"/>
+</p>
