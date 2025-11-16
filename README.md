@@ -1,11 +1,9 @@
 
 
+
 <h1 align="center">
 Hello there! I'm Ahmed Mohamed Saleh 👋
 
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFmaXkxYm52bzBweHd6NWNmbXI5czJwbHloZWZmOHJuMmZxOHB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46o12EbLLRVrd5Xh4f/giphy.gif" alt="Mechatronics GIF" width="400" height="200">
-</p>
 
 
 <p align="center">
