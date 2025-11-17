@@ -11,11 +11,11 @@ Hello there! I'm Ahmed Mohamed Saleh 👋
 </h1>
 
 <p align="center">
-  I'm a <b>Mechatronics Engineering</b> student at the <b>Higher Technological Institute (H.T.I), 10th Of Ramadan City</b>. 🧑‍💻
+ my major is <b>Mechatronics Engineering</b> </b>. 🧑‍💻
 </p>
 
 <p align="center">
-  I'm passionate about the intersection of mechanical, electrical, and software engineering. My core interests lie in <b>Robotics</b> 🤖 and <b>Embedded Systems</b> ⚡.
+  I'm passionate about the intersection of mechanical, electrical, and software engineering. My core interests lie in <b>Robotics</b> 🤖 , <b>Controlling Electronics</b> ⚡<b> and </b>( ' C ' & ' C++ '  Applications)🧑‍💻.
 </p>
 
 <p align="center">
